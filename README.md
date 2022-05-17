@@ -1,9 +1,9 @@
 # prog_est_prog_7
 Programa en lenguaje c que calcula  el total a pagar de arduinos pedidos, con el uso de condiciones para los descuentos de 5%, 15%, 25%, y uso de operaciones aritméticas
-Autor: Oscar Eduardo Fletes Ixta
-Escuela: UVM Campus Lomas Verdes
-Materia : Programcion Estructurada
-CICLO: 01/2022
+* Autor: Oscar Eduardo Fletes Ixta
+* Escuela: UVM Campus Lomas Verdes
+* Materia : Programcion Estructurada
+* CICLO: 01/2022
 
 Programa en lenguaje c que muestra el uso de:
 * Declaracion de variables 
